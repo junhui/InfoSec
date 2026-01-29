@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { SidebarProvider, SidebarInset } from "@/components/ui/sidebar";
 import { AppSidebar } from "@/components/app-sidebar";
